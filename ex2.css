@@ -1,0 +1,18 @@
+body
+{
+	background-color:#99FFFF;
+}
+p
+{
+	border-top-style:dotted;
+	border-right-style:dotted;
+	border-bottom-style:dotted;
+	border-left-style:dotted;
+	color:white;
+	font-size:50px;
+}
+tr
+{
+	color:white;
+	font-size:20px;
+}
